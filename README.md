@@ -1,5 +1,11 @@
 # YAML support for the Go language
 
+**NOTE**: This is a fork of github.com/go-yaml/yaml with a patch for handling custom
+tags taken from https://github.com/go-yaml/yaml/pull/332, and as such, doesn't really
+reflect upstream.
+
+The canonical path for this package is `snai.pe/go-yaml`.
+
 Introduction
 ------------
 
